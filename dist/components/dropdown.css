@@ -1,0 +1,13 @@
+.dropdown-label{
+    text-transform: capitalize;
+}
+
+.dropdown{
+    border: 1px solid black;
+    background: none;
+    border-radius: 50px;
+    padding: 7px;
+    display: block;
+    margin: 7px 0;
+    cursor: pointer;
+}
