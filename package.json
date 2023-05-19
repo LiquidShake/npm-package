@@ -3,7 +3,7 @@
   "description": "Simple select/options component",
   "author": "Clément GUEZOU",
   "keywords": ["react", "components", "ui"],
-  "version": "1.0.6",
+  "version": "1.0.7",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
