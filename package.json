@@ -10,7 +10,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/LiquidShake/p14-npm-select-component/"
+      "url": "git+https://github.com/LiquidShake/npm-package"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
